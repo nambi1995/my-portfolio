@@ -1,8 +1,11 @@
 import React from 'react'
+import Separator from '../../common/separator'
 
 function Work() {
   return (
-    <div>Work</div>
+    <div>
+      <Separator/>
+      Work</div>
   )
 }
 

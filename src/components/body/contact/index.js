@@ -1,8 +1,10 @@
 import React from 'react'
+import Separator from '../../common/separator'
 
 function Contact() {
   return (
-    <div>Contact</div>
+    <div>
+      <Separator/>Contact</div>
   )
 }
 
